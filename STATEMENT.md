@@ -1,6 +1,6 @@
 # Project Statement
 
-## Title: Café Billing System Using Python
+## Title: Cafe Billing System Using Python
 
 ### Objective
 The purpose of this project is to design and implement a simple, interactive, and user-friendly **Café Billing System** using Python.  
