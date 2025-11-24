@@ -1,0 +1,53 @@
+Name: Rugved Choudhari 
+Reg No: 25BCE10502
+
+1. Problem Statement
+In many small cafes, billing is still done manually. This process is often slow and leads to calculation mistakes, especially when staff have to manually add taxes, service charges, or discounts during a rush.
+
+The goal of this project is to create a simple, automated Python program that solves this by:
+
+Displaying a clear menu to the user.
+
+Taking orders quickly without confusion.
+
+Automatically doing the math for totals and taxes so there are no errors.
+
+Printing a clean, professional-looking final bill.
+
+2. Project Requirements
+Functional Requirements (What the code does):
+
+Menu Display: The system shows categorized items (like Veg/Non-Veg) with prices.
+
+Order Taking: Users can select items and specify quantities.
+
+Calculation: The system automatically computes the subtotal, adds a standard tax rate, and applies any discounts.
+
+Bill Generation: Produces a formatted receipt on the console.
+
+Non-functional Requirements (How the code performs):
+
+Usability: The text menus should be easy to read and navigate.
+
+Accuracy: The math for taxes and totals must be precise.
+
+Stability: The program shouldn't crash if the user makes a simple typing mistake.
+
+3. System Architecture
+I organized the code into logical blocks to keep it clean. Instead of one long script, the system handles tasks in steps:
+
+Menu Storage: Using data structures (like dictionaries or lists) to hold item names and prices.
+
+Input Handling: A loop that asks the user for their order until they are done.
+
+Processing: A calculation block that handles the math logic.
+
+Output: A print function that arranges the final data into a bill format.
+
+4. Screenshots
+
+
+5. Learnings & Key Points
+This project taught me how important it is to use functions to break the code into small, reusable blocks. This was especially useful for tasks that happen repeatedly, like displaying the menu or taking an order line-item.
+
+It also gave me good practice in organizing data using nested if/else statements. I used these to guide the user through specific choices—for example, first selecting a general category (like "Veg") and then drilling down to a specific cuisine (like "Korean food").
