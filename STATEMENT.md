@@ -52,5 +52,3 @@ The Café Billing System successfully demonstrates how Python can be used to cre
 The project provides a reliable, accurate, and user-friendly method for restaurants to manage customer orders and billing.
 
 ---
-
-If you want, I can also create **ABOUT.md**, **LICENSE.md**, or **INSTALLATION.md**.
